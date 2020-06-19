@@ -123,7 +123,7 @@ function DorimeTela1() {
 		
 		
 		//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   personagem
-		dude = game.add.sprite(340, 50, "dude"); // default 340, 3000 //testes: 340, 50 win
+		dude = game.add.sprite(340, 3000, "dude"); // default 340, 3000 //testes: 340, 50 win
 		dude.scale.x = 0.4;
 		dude.scale.y = 0.4;
 		dude.alpha = 0;
